@@ -3,3 +3,18 @@
 
 # Ada Library Information
 *.ali
+
+# Local files and directory folders
+.vscode
+.vscode/*
+
+#Local terraform supporting files
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+.terraform
+.terraform/*
+
+
+
+
